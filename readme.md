@@ -6,7 +6,7 @@ public static class Me
 {
     public static readonly string[] ABOUT = new string[]
     {
-        "大号被一个笨蛋丢了，这是第二个号"
+        "@CnBarrier的延续账号，原账号已丢失[哭]"
     };
 
     public static readonly string[] Learning = new string[]
