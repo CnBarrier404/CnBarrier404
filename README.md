@@ -3,7 +3,7 @@
 不常在 Github 中活跃，项目一般都在私人的 Git 服务器中
 
 ## Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=CnBarrier404&show_icons=true)](https://github.com/CnBarrier404) ![Github Visitor](https://count.getloli.com/get/@CnBarrier404)
+![Github Visitor](https://count.getloli.com/get/@CnBarrier404)
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CnBarrier404)
 
 ## Programming Language / Now Learning
